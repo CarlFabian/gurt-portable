@@ -10,7 +10,7 @@ points:
         middle:
           stagger: 5
         index:
-          stagger: -6
+          stagger: -3
         inner:
           stagger: -2
       rows:
@@ -25,12 +25,12 @@ points:
         
         home:
           spread: 20
-          rotate: 0
+          rotate: -20
           origin: [0, -11]
         far:
-          spread: 27
+          spread: 19
           rotate: 0
           origin: [0, 0]
-          stagger: 7
+          stagger: 0
       rows:
         thumb:
