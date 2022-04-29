@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "gurt-portable")(type "KiCad")(uri "${KIPRJMOD}/gurt-portable.pretty")(options "")(descr ""))
+  (lib (name "pierce")(type "KiCad")(uri "/Users/oscar/KeyboardProject/pierce/pierce/pcb/wireless/pierce.pretty")(options "")(descr ""))
+)

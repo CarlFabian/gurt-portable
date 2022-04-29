@@ -1,4 +1,4 @@
-20159830518961232
+20192828769405528
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85650,4 +85650,144 @@ Varistor, diameter 21.5mm, width 11.4mm, pitch 10mm
 varistor SIOV
 0
 2
+2
+gurt-portable
+BatteryHolder_Keystone_3034_1x20mm
+Keystone 3034 SMD battery holder for 2020, 2025 and 2032 coincell batteries. http://www.keyelco.com/product-pdf.cfm?p=798
+Keystone type 3034 coin cell retainer
+0
+3
+2
+gurt-portable
+C_SMD_v2
+Resitance 3 pas
+R
+0
+2
+2
+gurt-portable
+Choc_PG1350_Choc_Spacing_Reversible
+Kailh "Choc" PG1350 keyswitch
+kailh,choc
+0
+3
+2
+gurt-portable
+Kailh_socket_PG1350_reversible
+Kailh "Choc" PG1350 keyswitch reversible socket mount
+kailh,choc
+0
+4
+2
+gurt-portable
+PinHeader_1x04_P2.54mm_Horizontal
+Through hole angled pin header, 1x04, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x04 2.54mm single row
+0
+4
+4
+gurt-portable
+ProMicro_v2_1side
+
+
+0
+24
+24
+gurt-portable
+YJ-14015
+YJ-14015-Modul
+YJ-14015
+0
+36
+36
+pierce
+BatteryHolder_Keystone_3034_1x20mm
+Keystone 3034 SMD battery holder for 2020, 2025 and 2032 coincell batteries. http://www.keyelco.com/product-pdf.cfm?p=798
+Keystone type 3034 coin cell retainer
+0
+3
+2
+pierce
+C_SMD_v2
+Resitance 3 pas
+R
+0
+2
+2
+pierce
+CherryMX_ChocV2_1u
+
+
+0
+5
+2
+pierce
+Elite-C_reverse_D5
+
+
+0
+25
+25
+pierce
+MX_ALPS_PG1350_noLed
+
+
+0
+11
+2
+pierce
+OSHW-Logo2_7.3x6mm_SilkScreen
+Open Source Hardware Symbol
+Logo Symbol OSHW
+0
+0
+0
+pierce
+PinHeader_1x04_P2.54mm_Horizontal
+Through hole angled pin header, 1x04, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x04 2.54mm single row
+0
+4
+4
+pierce
+ProMicro_v2_1side
+
+
+0
+24
+24
+pierce
+R_SMD_v2
+Resitance 3 pas
+R
+0
+2
+2
+pierce
+Rotary_encoder_conn
+Through hole straight socket strip, 1x03, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x03 2.54mm single row
+0
+3
+3
+pierce
+TRACKPOINT
+Connecteur 6 pins
+CONN DEV
+0
+5
+5
+pierce
+YJ-14015
+YJ-14015-Modul
+YJ-14015
+0
+36
+36
+pierce
+keyswitch_cherrymx_alps_choc12_1u
+
+
+0
+6
 2
