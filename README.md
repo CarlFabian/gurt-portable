@@ -10,7 +10,7 @@ This keyboard was based of durken1's *[pierce](https://github.com/durken1/pierce
 **changes:**
 <ul>
   <li>Slightly bigger solderpads for the battery holders</li>
-  <li>Thumbkeys has new footprints that can be rotated 90°</li>
+  <li>Thumbkeys has new footprints that allows the switches to be rotated 90°</li>
 </ul>
 
 ![alt text](pictures/v0.2.png)
