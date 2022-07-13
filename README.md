@@ -5,7 +5,7 @@ This keyboard was based of durken1's *[pierce](https://github.com/durken1/pierce
 ![alt text](pictures/PXL_20220713_122904998.MP.jpg)
 
 
-# v 0.2 (not tested but probably better)
+# v0.2 (not tested but probably better)
 changes:
 <ul>
   <li>Slightly bigger solderpads for the battery holders</li>
