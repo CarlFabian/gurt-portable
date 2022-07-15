@@ -1,4 +1,4 @@
-20170844237413982
+20172501951421627
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85653,6 +85653,13 @@ varistor SIOV
 2
 gurt-portable
 BatteryHolder_Keystone_3034_1x20mm
+Keystone 3034 SMD battery holder for 2020, 2025 and 2032 coincell batteries. http://www.keyelco.com/product-pdf.cfm?p=798
+Keystone type 3034 coin cell retainer
+0
+3
+2
+gurt-portable
+BatteryHolder_Keystone_3034_1x20mm_bigger_pads
 Keystone 3034 SMD battery holder for 2020, 2025 and 2032 coincell batteries. http://www.keyelco.com/product-pdf.cfm?p=798
 Keystone type 3034 coin cell retainer
 0
